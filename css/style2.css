@@ -10,6 +10,11 @@ body {
   color: #313233;
 }
 
+.date {
+  float: right;
+  color: #ddd;
+}
+
 @media only screen and (max-device-width: 480px) {
   body {
     margin: 3% 5% 3% 5%;
@@ -19,7 +24,7 @@ body {
 hr {
     margin-top: 1.5em;
     margin-bottom: 1.5em;
-    border-width: 0.6px;
+    border-width: 0.5px;
 }
 
 img {
