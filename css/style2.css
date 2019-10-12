@@ -11,8 +11,13 @@ body {
 }
 
 .date {
-  float: right;
-  color: #ddd;
+  /*float: right;*/
+  /*color: #ddd;*/
+  color: #bdc3c7;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 @media only screen and (max-device-width: 480px) {
